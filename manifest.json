@@ -3,7 +3,7 @@
 {
     "name": "Business App",
     "short_name": "Business",
-    "start_url": ".",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#3465A4",
     "description": "A Business App",
