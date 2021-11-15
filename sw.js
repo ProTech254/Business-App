@@ -2,7 +2,7 @@ const cacheName = 'business_app-v1';
 const staticAssets = [
     './',
     './index.html',
-    './manifest.webmanifest'
+    './manifest.json'
 ];
 
 self.addEventListener('install', async e => {

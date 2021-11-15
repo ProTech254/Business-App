@@ -3,7 +3,7 @@
 {
     "name": "Business App",
     "short_name": "Business",
-    "start_url": "index.html",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#3465A4",
     "description": "A Business App",
@@ -16,12 +16,12 @@
         {
             "src": "personal_data_.svg",
             "sizes": "200x150",
-            "type": "image/svg",
-            "purpose": "maskable any"
+            "type": "image/svg"
+
         },
         {
             "src": "rental.png",
-            "sizes": "613x1255",
+            "sizes": "259x194",
             "type": "image/png"
         }
     ]

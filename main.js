@@ -1,5 +1,5 @@
 window.addEventListener('load', () => {
-    getResults();
+    // getResults();
     registerSW();
 });
 
