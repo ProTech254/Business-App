@@ -1,26 +1,27 @@
 {
-	"author": "SuperCoders",
-	"name": "SuperCoders",
-	"short_name": "SuperCoders",
-	"description": "Guide of Python Android Website Mobile Development | Online Video Tutorials | SuperCoders - SuperCoders",
-	"orientation": "portrait",
-	"start_url": "/",
-	"scope": "/",
-	"display": "standalone",
-	"background_color": "grey",
-	"theme_color": "#238ee0",
-	"icons": [
-		{
-			"src": "/rental.png",
-			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
-			"type": "image/png"
-		}
-	],
-	"manifest_version": 2,
-	"version": "0.1",
-	"applications": {
-		"gecko": {
-			"id": "supercoders.tech@gmail.com"
-		}
-	}
+    "name": "Business App",
+    "short_name": "Business",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#3465A4",
+    "description": "A Business App",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "366x366",
+            "type": "image/png"
+        },
+        {
+            "src": "personal_data_.svg",
+            "sizes": "200x150",
+            "type": "image/svg",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "rental.png",
+            "sizes": "613x1255",
+            "type": "image/png"
+        }
+    ]
+
 }
