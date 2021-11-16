@@ -5,12 +5,12 @@
     "short_name": "Business",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#3465A4",
+    "background_color": "#FF5733",
     "description": "A Business App",
     "icons": [
         {
             "src": "logo.png",
-            "sizes": "366x366",
+            "sizes": "259x194",
             "type": "image/png"
         },
         {
