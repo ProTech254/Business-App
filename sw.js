@@ -1,7 +1,6 @@
 const cacheName = 'business_app-v1';
 const staticAssets = [
     './',
-    './index.html',
     './manifest.json'
 ];
 
