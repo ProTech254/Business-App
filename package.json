@@ -1,12 +1,19 @@
 
 
 {
-    "name": "Business App",
+    "name": "business_app",
     "short_name": "Business",
-    "start_url": ".",
+    "main": "main.js",
     "display": "standalone",
     "background_color": "#FF5733",
     "description": "A Business App",
+    "scripts": 
+    {
+        "start": "node main.js"
+    },
+    "engines": {
+        "node": "12.11.1"
+        },
     "icons": [
         {
             "src": "logo.png",

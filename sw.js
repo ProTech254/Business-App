@@ -1,7 +1,7 @@
 const cacheName = 'business_app-v1';
 const staticAssets = [
     './',
-    './manifest.json'
+    './package.json'
 ];
 
 self.addEventListener('install', async e => {
