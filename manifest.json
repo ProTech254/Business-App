@@ -7,6 +7,7 @@
     "display": "standalone",
     "background_color": "#FF5733",
     "description": "A Business App",
+    "start_url": "./index.html",
     "scripts": 
     {
         "start": "node main.js"
@@ -16,15 +17,9 @@
         },
     "icons": [
         {
-            "src": "logo.png",
-            "sizes": "259x194",
+            "src": "logo.jpg",
+            "sizes": "194x194",
             "type": "image/png"
-        },
-        {
-            "src": "personal_data_.svg",
-            "sizes": "200x150",
-            "type": "image/svg"
-
         },
         {
             "src": "rental.png",
