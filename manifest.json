@@ -20,12 +20,8 @@
             "src": "logo.jpg",
             "sizes": "194x194",
             "type": "image/png"
-        },
-        {
-            "src": "rental.png",
-            "sizes": "259x194",
-            "type": "image/png"
         }
+       
     ]
 
 }
